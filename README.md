@@ -1,8 +1,6 @@
 # 21-days-of-kaggle-intro
 for fun :)
 
-# 21-Day Kaggle Machine Learning Challenge
-
 ## Week 1: Foundations & Tabular Data
 
 ### Day 1: Environment Setup & EDA Mastery
